@@ -1,0 +1,623 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015
+20588,UNIQUE,0,Dhs,"Cheltenham, Columbia",Dept Hs,MD,Howard County,America/New_York,410,,US,38.74,-76.85,0
+20601,STANDARD,0,Waldorf,,,MD,Charles County,America/New_York,"240,301",,US,38.64,-76.9,24600
+20602,STANDARD,0,Waldorf,Saint Charles,,MD,Charles County,America/New_York,"240,301",,US,38.58,-76.89,25200
+20603,STANDARD,0,Waldorf,Saint Charles,,MD,Charles County,America/New_York,"240,301",,US,38.63,-76.98,29890
+20604,PO BOX,0,Waldorf,Saint Charles,,MD,Charles County,America/New_York,240,,US,38.64,-76.9,1437
+20606,STANDARD,0,Abell,,,MD,St. Mary's County,America/New_York,301,,US,38.25,-76.74,260
+20607,STANDARD,0,Accokeek,,,MD,Prince George's County,America/New_York,301,,US,38.67,-77.01,11240
+20608,STANDARD,0,Aquasco,Eagle Harbor,,MD,Prince George's County,America/New_York,240,,US,38.58,-76.7,750
+20609,STANDARD,0,Avenue,,,MD,St. Mary's County,America/New_York,301,,US,38.27,-76.77,1050
+20610,PO BOX,0,Barstow,,,MD,Calvert County,America/New_York,410,,US,38.52,-76.6,233
+20611,STANDARD,0,Bel Alton,,,MD,Charles County,America/New_York,"240,301",,US,38.46,-76.98,990
+20612,PO BOX,0,Benedict,,,MD,Charles County,America/New_York,240,,US,38.5,-76.68,319
+20613,STANDARD,0,Brandywine,,,MD,Prince George's County,America/New_York,"240,301",,US,38.69,-76.85,13870
+20615,STANDARD,0,Broomes Island,Broomes Is,,MD,Calvert County,America/New_York,410,,US,38.42,-76.55,370
+20616,STANDARD,0,Bryans Road,,"Bryans Rd, Marshall Hall",MD,Charles County,America/New_York,301,,US,38.63,-77.07,6410
+20617,STANDARD,0,Bryantown,,,MD,Charles County,America/New_York,240,,US,38.55,-76.84,900
+20618,STANDARD,0,Bushwood,,,MD,St. Mary's County,America/New_York,301,,US,38.28,-76.78,700
+20619,STANDARD,0,California,,,MD,St. Mary's County,America/New_York,301,,US,38.29,-76.49,12270
+20620,STANDARD,0,Callaway,,,MD,St. Mary's County,America/New_York,"301,240",,US,38.23,-76.51,1350
+20621,STANDARD,0,Chaptico,Maddox,,MD,St. Mary's County,America/New_York,301,,US,38.33,-76.8,1350
+20622,STANDARD,0,Charlotte Hall,Charlott Hall,,MD,Charles County,America/New_York,240,,US,38.42,-76.87,4420
+20623,STANDARD,0,Cheltenham,,,MD,Prince George's County,America/New_York,"240,301",,US,38.74,-76.84,2920
+20624,STANDARD,0,Clements,,,MD,St. Mary's County,America/New_York,240,,US,38.34,-76.73,1180
+20625,PO BOX,0,Cobb Island,,,MD,Charles County,America/New_York,240,,US,38.26,-76.85,799
+20626,STANDARD,0,Coltons Point,,,MD,St. Mary's County,America/New_York,240,,US,38.23,-76.76,320
+20627,PO BOX,0,Compton,,,MD,St. Mary's County,America/New_York,240,,US,38.3,-76.63,271
+20628,STANDARD,0,Dameron,,,MD,St. Mary's County,America/New_York,240,,US,38.15,-76.36,570
+20629,PO BOX,0,Dowell,,,MD,Calvert County,America/New_York,410,,US,38.34,-76.45,409
+20630,STANDARD,0,Drayden,,,MD,St. Mary's County,America/New_York,301,,US,38.17,-76.47,450
+20632,STANDARD,0,Faulkner,,,MD,Charles County,America/New_York,240,,US,38.43,-76.97,510
+20634,STANDARD,0,Great Mills,,,MD,St. Mary's County,America/New_York,"240,301",,US,38.27,-76.51,7040
+20635,PO BOX,0,Helen,,,MD,St Mary's County,America/New_York,240,,US,38.41,-76.73,24
+20636,STANDARD,0,Hollywood,,,MD,St. Mary's County,America/New_York,301,,US,38.34,-76.57,9970
+20637,STANDARD,0,Hughesville,,,MD,Charles County,America/New_York,"240,301",,US,38.53,-76.78,5530
+20639,STANDARD,0,Huntingtown,,,MD,Calvert County,America/New_York,"410,443",,US,38.61,-76.61,14890
+20640,STANDARD,0,Indian Head,Pisgah,,MD,Charles County,America/New_York,"240,301",,US,38.59,-77.15,9000
+20643,PO BOX,0,Ironsides,,,MD,Charles County,America/New_York,240,,US,38.49,-77.16,43
+20645,STANDARD,0,Issue,Swan Point,,MD,Charles County,America/New_York,"240,301",,US,38.29,-76.91,760
+20646,STANDARD,0,La Plata,Dentsville,Laplata,MD,Charles County,America/New_York,"240,301",,US,38.53,-76.97,18590
+20650,STANDARD,0,Leonardtown,,,MD,St. Mary's County,America/New_York,"240,301",,US,38.29,-76.64,13220
+20653,STANDARD,0,Lexington Park,Lexington Pk,Lex Pk,MD,St. Mary's County,America/New_York,"240,301",,US,38.24,-76.43,21450
+20656,STANDARD,0,Loveville,,,MD,St. Mary's County,America/New_York,301,,US,38.35,-76.67,519
+20657,STANDARD,0,Lusby,,,MD,Calvert County,America/New_York,410,,US,38.41,-76.45,18020
+20658,STANDARD,0,Marbury,Rison,,MD,Charles County,America/New_York,240,,US,38.56,-77.16,1020
+20659,STANDARD,0,Mechanicsville,Mechanicsvlle,,MD,St. Mary's County,America/New_York,"240,301",,US,38.43,-76.73,22740
+20660,PO BOX,0,Morganza,,,MD,St. Mary's County,America/New_York,240,,US,38.37,-76.71,239
+20661,PO BOX,0,Mount Victoria,Mt Victoria,,MD,Charles County,America/New_York,240,,US,38.33,-76.91,62
+20662,STANDARD,0,Nanjemoy,,,MD,Charles County,America/New_York,"240,301",,US,38.45,-77.21,2400
+20664,STANDARD,0,Newburg,,,MD,Charles County,America/New_York,"301,240",,US,38.34,-76.92,2560
+20667,STANDARD,0,Park Hall,,,MD,St. Mary's County,America/New_York,240,,US,38.22,-76.44,460
+20670,STANDARD,0,Patuxent River,Patuxent Riv,Patuxent River Naval Air Sta,MD,St. Mary's County,America/New_York,"240,301",,US,38.28,-76.42,1290
+20674,STANDARD,0,Piney Point,,Piney Pt,MD,St. Mary's County,America/New_York,301,,US,38.13,-76.5,670
+20675,STANDARD,0,Pomfret,,,MD,Charles County,America/New_York,301,,US,38.58,-77.02,1720
+20676,STANDARD,0,Port Republic,,,MD,Calvert County,America/New_York,"443,410",,US,38.49,-76.54,3270
+20677,STANDARD,0,Port Tobacco,,,MD,Charles County,America/New_York,"240,301",,US,38.49,-77.04,2380
+20678,STANDARD,0,Prince Frederick,"Dares Beach, Prnc Frederck",Pr Frederick,MD,Calvert County,America/New_York,"410,443",,US,38.54,-76.58,10740
+20680,STANDARD,0,Ridge,,,MD,St. Mary's County,America/New_York,"240,301",,US,38.11,-76.37,820
+20682,PO BOX,0,Rock Point,,"Newburg, Rock Pt",MD,Charles County,America/New_York,240,,US,38.34,-76.92,0
+20684,STANDARD,0,Saint Inigoes,,"Beachville, St Inigoes",MD,St. Mary's County,America/New_York,240,,US,38.15,-76.41,1130
+20685,STANDARD,0,Saint Leonard,,St Leonard,MD,Calvert County,America/New_York,410,,US,38.47,-76.5,6400
+20686,PO BOX,0,Saint Marys City,"Saint Marys, St Marys City",,MD,St. Mary's County,America/New_York,240,,US,38.18,-76.42,290
+20687,STANDARD,0,Scotland,,,MD,St. Mary's County,America/New_York,240,,US,38.07,-76.34,270
+20688,STANDARD,0,Solomons,,,MD,Calvert County,America/New_York,"410,443,667",,US,38.33,-76.46,1790
+20689,STANDARD,0,Sunderland,,,MD,Calvert County,America/New_York,410,,US,38.66,-76.58,1910
+20690,STANDARD,0,Tall Timbers,,,MD,St. Mary's County,America/New_York,"240,301",,US,38.16,-76.53,750
+20692,STANDARD,0,Valley Lee,,,MD,St. Mary's County,America/New_York,301,,US,38.18,-76.5,1020
+20693,STANDARD,0,Welcome,,,MD,Charles County,America/New_York,240,,US,38.45,-77.08,1070
+20695,STANDARD,0,White Plains,,,MD,Charles County,America/New_York,301,,US,38.59,-76.97,10130
+20697,UNIQUE,0,Southern Md Facility,Sthrn Md Fac,Southern Md Brmas,MD,Prince George's County,America/New_York,240,,US,39.03,-76.9,0
+20701,STANDARD,0,Annapolis Junction,Annapolis Jct,,MD,Howard County,America/New_York,"410,443",,US,39.12,-76.77,142
+20703,PO BOX,0,Lanham,Lanham Seabrook,Seabrook,MD,Prince George's County,America/New_York,240,,US,38.96,-76.85,411
+20704,PO BOX,0,Beltsville,,,MD,Prince George's County,America/New_York,240,,US,39.03,-76.92,412
+20705,STANDARD,0,Beltsville,Calverton,,MD,Prince George's County,America/New_York,"240,301,410",,US,39.03,-76.92,27880
+20706,STANDARD,0,Lanham,"Glenarden, Lanham Seabrook, Seabrook",,MD,Prince George's County,America/New_York,"240,301",,US,38.96,-76.85,42660
+20707,STANDARD,0,Laurel,,,MD,Prince George's County,America/New_York,"240,301,410,443",,US,39.1,-76.88,34030
+20708,STANDARD,0,Laurel,Montpelier,,MD,Prince George's County,America/New_York,"240,301,410,443",,US,39.09,-76.85,26450
+20709,PO BOX,0,Laurel,Montpelier,,MD,Prince George's County,America/New_York,240,,US,39.09,-76.85,348
+20710,STANDARD,0,Bladensburg,,,MD,Prince George's County,America/New_York,"240,301",,US,38.94,-76.92,9690
+20711,STANDARD,0,Lothian,,,MD,Anne Arundel County,America/New_York,"240,301",,US,38.8,-76.65,6320
+20712,STANDARD,0,Mount Rainier,,Mt Rainier,MD,Prince George's County,America/New_York,"301,240",,US,38.94,-76.96,8720
+20714,STANDARD,0,North Beach,"Holland Point, Rose Haven",N Beach,MD,Calvert County,America/New_York,"301,410,443",,US,38.7,-76.53,4060
+20715,STANDARD,0,Bowie,,,MD,Prince George's County,America/New_York,"301,240",,US,38.99,-76.74,24580
+20716,STANDARD,0,Bowie,Mitchellville,"S Bowie, South Bowie",MD,Prince George's County,America/New_York,301,,US,38.95,-76.73,20710
+20717,PO BOX,0,Bowie,Mitchellville,,MD,Prince George's County,America/New_York,240,,US,38.95,-76.73,117
+20718,PO BOX,0,Bowie,,,MD,Prince George's County,America/New_York,240,,US,38.95,-76.73,358
+20719,PO BOX,0,Bowie,,W Bowie,MD,Prince George's County,America/New_York,240,,US,38.95,-76.73,76
+20720,STANDARD,0,Bowie,,,MD,Prince George's County,America/New_York,"240,301",,US,38.98,-76.79,23400
+20721,STANDARD,0,Bowie,Mitchellville,,MD,Prince George's County,America/New_York,301,,US,38.92,-76.79,28290
+20722,STANDARD,0,Brentwood,"Colmar Manor, Cottage City, N Brentwood, No Brentwood, North Brentwo, North Brentwood",Brentwd,MD,Prince George's County,America/New_York,"240,301",,US,38.94,-76.95,6130
+20723,STANDARD,0,Laurel,Scaggsville,,MD,Howard County,America/New_York,"240,301,410,443",,US,39.14,-76.87,31740
+20724,STANDARD,0,Laurel,"Maryland City, Md City, Russett",,MD,Anne Arundel County,America/New_York,"240,301,410,443",,US,39.1,-76.8,17150
+20725,PO BOX,0,Laurel,,,MD,Prince George's County,America/New_York,240,,US,39.09,-76.85,488
+20726,PO BOX,0,Laurel,,,MD,Prince George's County,America/New_York,240,,US,39.09,-76.85,109
+20731,PO BOX,0,Capitol Heights,Capitol Hgts,,MD,Prince George's County,America/New_York,240,,US,38.87,-76.9,319
+20732,STANDARD,0,Chesapeake Beach,Chesapeak Bch,,MD,Calvert County,America/New_York,410,,US,38.68,-76.53,9990
+20733,STANDARD,0,Churchton,,,MD,Anne Arundel County,America/New_York,410,,US,38.81,-76.53,2830
+20735,STANDARD,0,Clinton,,,MD,Prince George's County,America/New_York,"301,240",,US,38.76,-76.89,36010
+20736,STANDARD,0,Owings,,,MD,Calvert County,America/New_York,410,,US,38.69,-76.62,9060
+20737,STANDARD,0,Riverdale,"Riverdale Park, Riverdale Pk",,MD,Prince George's County,America/New_York,"240,301",,US,38.96,-76.92,25940
+20738,PO BOX,0,Riverdale,,,MD,Prince George's County,America/New_York,240,,US,38.96,-76.92,294
+20740,STANDARD,0,College Park,"Berwyn Heights, Berwyn Hts","Berwyn, North College Park",MD,Prince George's County,America/New_York,"301,240",,US,38.99,-76.93,18780
+20741,PO BOX,0,College Park,,,MD,Prince George's County,America/New_York,240,,US,38.99,-76.93,284
+20742,UNIQUE,0,College Park,,University Of Maryland,MD,Prince George's County,America/New_York,240,,US,38.99,-76.95,165
+20743,STANDARD,0,Capitol Heights,"Capitol Hgts, Fairmount Heights, Fairmount Hgt, Seat Pleasant",,MD,Prince George's County,America/New_York,"240,301",,US,38.87,-76.9,35730
+20744,STANDARD,0,Fort Washington,Ft Washington,,MD,Prince George's County,America/New_York,"240,301",,US,38.73,-77.0,50410
+20745,STANDARD,0,Oxon Hill,"Forest Heights, Forest Hts",National Harbor,MD,Prince George's County,America/New_York,"301,240",,US,38.8,-76.99,28730
+20746,STANDARD,0,Suitland,"Camp Springs, Hillcrest Hgts, Hillcrest Hts, Morningside","Marlow Heights, Silver Hill, Temple Hills",MD,Prince George's County,America/New_York,"301,240",,US,38.83,-76.92,26900
+20747,STANDARD,0,District Heights,"District Hts, Forestville",,MD,Prince George's County,America/New_York,"240,301",,US,38.85,-76.88,36050
+20748,STANDARD,0,Temple Hills,"Camp Springs, Hillcrest Heights, Hillcrest Hts, Marlow Heights, Marlow Hgts",,MD,Prince George's County,America/New_York,"240,301",,US,38.81,-76.93,35640
+20749,PO BOX,0,Fort Washington,Ft Washington,,MD,Prince George's County,America/New_York,240,,US,38.73,-77.0,530
+20750,PO BOX,0,Oxon Hill,,Fort Washington,MD,Prince George's County,America/New_York,240,,US,38.8,-76.99,466
+20751,STANDARD,0,Deale,,,MD,Anne Arundel County,America/New_York,410,,US,38.79,-76.54,2090
+20752,PO BOX,0,Suitland,,Temple Hills,MD,Prince George's County,America/New_York,240,,US,38.83,-76.92,336
+20753,PO BOX,0,District Heights,District Hts,"Capitol Heights, Forestville",MD,Prince George's County,America/New_York,240,,US,38.85,-76.88,597
+20754,STANDARD,0,Dunkirk,,,MD,Calvert County,America/New_York,,,US,38.72,-76.66,6880
+20755,STANDARD,0,Fort George G Meade,Fort Meade,"Fort George Meade, Ft George G Meade, Ft Meade",MD,Anne Arundel County,America/New_York,410,,US,39.11,-76.75,9790
+20757,PO BOX,0,Temple Hills,,,MD,Prince George's County,America/New_York,240,,US,38.8,-76.94,630
+20758,STANDARD,0,Friendship,,,MD,Anne Arundel County,America/New_York,410,,US,38.73,-76.59,720
+20759,STANDARD,0,Fulton,,,MD,Howard County,America/New_York,410,,US,39.15,-76.92,5580
+20762,STANDARD,0,Andrews Air Force Base,Andrews Afb,Temple Hills,MD,Prince George's County,America/New_York,"240,301",,US,38.8,-76.87,2830
+20763,STANDARD,0,Savage,,,MD,Howard County,America/New_York,"410,443",,US,39.13,-76.81,2450
+20764,STANDARD,0,Shady Side,,,MD,Anne Arundel County,America/New_York,410,,US,38.83,-76.52,3870
+20765,PO BOX,0,Galesville,,,MD,Anne Arundel County,America/New_York,410,,US,38.84,-76.54,553
+20768,PO BOX,0,Greenbelt,,,MD,Prince George's County,America/New_York,240,,US,38.99,-76.88,413
+20769,STANDARD,0,Glenn Dale,,,MD,Prince George's County,America/New_York,"240,301",,US,38.98,-76.8,6960
+20770,STANDARD,0,Greenbelt,,,MD,Prince George's County,America/New_York,"240,301",,US,38.99,-76.88,24120
+20771,UNIQUE,0,Greenbelt,,Goddard Flight Center,MD,Prince George's County,America/New_York,240,,US,38.99,-76.88,0
+20772,STANDARD,0,Upper Marlboro,Uppr Marlboro,Marlboro,MD,Prince George's County,America/New_York,"240,301",,US,38.81,-76.75,42630
+20773,PO BOX,0,Upper Marlboro,Uppr Marlboro,,MD,Prince George's County,America/New_York,240,,US,38.81,-76.75,613
+20774,STANDARD,0,Upper Marlboro,"Glenarden, Kettering, Largo, Springdale, Uppr Marlboro, Upr Marlboro",,MD,Prince George's County,America/New_York,"240,301",,US,38.87,-76.77,45540
+20775,PO BOX,0,Upper Marlboro,Uppr Marlboro,Kettering,MD,Prince George's County,America/New_York,240,,US,38.81,-76.75,184
+20776,STANDARD,0,Harwood,,,MD,Anne Arundel County,America/New_York,410,,US,38.86,-76.6,3000
+20777,STANDARD,0,Highland,,,MD,Howard County,America/New_York,240,,US,39.17,-76.95,3550
+20778,STANDARD,0,West River,,,MD,Anne Arundel County,America/New_York,"410,443",,US,38.82,-76.55,1810
+20779,STANDARD,0,Tracys Landing,Tracys Lndg,Fairhaven,MD,Anne Arundel County,America/New_York,410,,US,38.76,-76.58,1220
+20781,STANDARD,0,Hyattsville,,"Avondale, Cheverly, Edmonston, Rogers Heights, Tuxedo",MD,Prince George's County,America/New_York,"240,301",,US,38.95,-76.95,14380
+20782,STANDARD,0,Hyattsville,"Chillum, University Pa, University Park, W Hyattsville, West Hyattsville","Avondale, Green Meadow, Lewisdale, Prince Georges Metro Ctr",MD,Prince George's County,America/New_York,"240,301",,US,38.97,-76.97,31920
+20783,STANDARD,0,Hyattsville,Adelphi,Langley Park,MD,Prince George's County,America/New_York,301,,US,39.0,-76.97,49520
+20784,STANDARD,0,Hyattsville,"Cheverly, Landover Hills, Landover Hls, New Carrolltn, New Carrollton",Lanham,MD,Prince George's County,America/New_York,301,,US,38.95,-76.89,33800
+20785,STANDARD,0,Hyattsville,"Cheverly, Landover, N Englewood, North Englewood","Ardmore, Palmer Park",MD,Prince George's County,America/New_York,"240,301",,US,38.92,-76.88,38480
+20787,PO BOX,0,Hyattsville,Langley Park,Adelphi,MD,Prince George's County,America/New_York,240,,US,38.95,-76.95,535
+20788,PO BOX,0,Hyattsville,W Hyattsville,"Prince George Plaza, West Hyattsville",MD,Prince George's County,America/New_York,240,,US,38.95,-76.95,51
+20790,UNIQUE,0,Capitol Heights,Capitol Hgts,"Capitol Heights Po, Southern Md Facility",MD,Prince George's County,America/New_York,240,,US,38.87,-76.9,0
+20791,PO BOX,0,Capitol Heights,Capitol Hgts,Southern Md Facility,MD,Prince George's County,America/New_York,240,,US,38.87,-76.9,600
+20792,PO BOX,0,Upper Marlboro,"Largo, Uppr Marlboro",,MD,Prince George's County,America/New_York,240,,US,38.82,-76.75,441
+20794,STANDARD,0,Jessup,,,MD,Howard County,America/New_York,"410,443",,US,39.14,-76.77,9920
+20797,UNIQUE,0,Southern Md Facility,Sthrn Md Fac,Southern Md Brmas,MD,Prince George's County,America/New_York,240,,US,39.03,-76.9,0
+20799,UNIQUE,0,Capitol Heights,Capitol Hgts,Washington Ndc,MD,Prince George's County,America/New_York,240,,US,38.87,-76.9,0
+20810,UNIQUE,0,Bethesda,,Geico,MD,Montgomery County,America/New_York,240,,US,38.97,-77.1,0
+20811,UNIQUE,0,Bethesda,,Geico,MD,Montgomery County,America/New_York,240,,US,38.97,-77.1,0
+20812,STANDARD,0,Glen Echo,,,MD,Montgomery County,America/New_York,"240,301",,US,38.97,-77.14,330
+20813,PO BOX,0,Bethesda,,Chevy Chase,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,52
+20814,STANDARD,0,Bethesda,,,MD,Montgomery County,America/New_York,"301,240",,US,39.0,-77.1,25950
+20815,STANDARD,0,Chevy Chase,"Bethesda, Chevy Chase Village, Chevy Chs Vlg, Martins Add, Martins Additions, N Chevy Chase, North Chevy Chase",Somerset,MD,Montgomery County,America/New_York,"240,301",,US,38.98,-77.08,27060
+20816,STANDARD,0,Bethesda,,,MD,Montgomery County,America/New_York,"301,240",,US,38.96,-77.12,15470
+20817,STANDARD,0,Bethesda,Westlake,,MD,Montgomery County,America/New_York,"240,301",,US,38.98,-77.12,34350
+20818,STANDARD,0,Cabin John,,,MD,Montgomery County,America/New_York,"301,240",,US,38.97,-77.16,1740
+20824,PO BOX,0,Bethesda,,,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,315
+20825,PO BOX,0,Chevy Chase,Bethesda,,MD,Montgomery County,America/New_York,240,,US,38.98,-77.08,50
+20827,PO BOX,0,Bethesda,"W Bethesda, Westlake",,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,229
+20830,PO BOX,0,Olney,,,MD,Montgomery County,America/New_York,240,,US,39.14,-77.08,360
+20832,STANDARD,0,Olney,,,MD,Montgomery County,America/New_York,240,,US,39.14,-77.08,25420
+20833,STANDARD,0,Brookeville,,"Sunshine, Unity",MD,Montgomery County,America/New_York,,,US,39.17,-77.05,7640
+20837,STANDARD,0,Poolesville,,,MD,Montgomery County,America/New_York,"240,301",,US,39.14,-77.41,6310
+20838,STANDARD,0,Barnesville,,,MD,Montgomery County,America/New_York,240,,US,39.22,-77.39,290
+20839,STANDARD,0,Beallsville,,,MD,Montgomery County,America/New_York,240,,US,39.19,-77.43,250
+20841,STANDARD,0,Boyds,,,MD,Montgomery County,America/New_York,240,,US,39.18,-77.31,9510
+20842,STANDARD,0,Dickerson,,Comus,MD,Montgomery County,America/New_York,,,US,39.22,-77.42,1580
+20847,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,,US,39.08,-77.15,92
+20848,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,,US,39.08,-77.15,308
+20849,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,,US,39.08,-77.15,476
+20850,STANDARD,0,Rockville,,,MD,Montgomery County,America/New_York,"240,301",,US,39.08,-77.15,43490
+20851,STANDARD,0,Rockville,,,MD,Montgomery County,America/New_York,"240,301",,US,39.08,-77.12,14490
+20852,STANDARD,0,Rockville,"N Bethesda, North Bethesda",No Bethesda,MD,Montgomery County,America/New_York,"240,301",,US,39.05,-77.12,38770
+20853,STANDARD,0,Rockville,,,MD,Montgomery County,America/New_York,"240,301",,US,39.1,-77.09,30610
+20854,STANDARD,0,Potomac,Rockville,,MD,Montgomery County,America/New_York,301,,US,39.02,-77.19,48030
+20855,STANDARD,0,Derwood,Rockville,,MD,Montgomery County,America/New_York,"240,301",,US,39.13,-77.13,14800
+20857,UNIQUE,0,Rockville,,Hhs,MD,Montgomery County,America/New_York,240,,US,39.08,-77.15,0
+20859,PO BOX,0,Potomac,Rockville,,MD,Montgomery County,America/New_York,240,,US,39.02,-77.19,255
+20860,STANDARD,0,Sandy Spring,,,MD,Montgomery County,America/New_York,"240,301",,US,39.14,-77.02,1820
+20861,STANDARD,0,Ashton,,,MD,Montgomery County,America/New_York,"240,301",,US,39.15,-76.98,2030
+20862,STANDARD,0,Brinklow,,,MD,Montgomery County,America/New_York,"240,301",,US,39.18,-77.01,400
+20866,STANDARD,0,Burtonsville,,,MD,Montgomery County,America/New_York,301,,US,39.11,-76.93,14410
+20868,STANDARD,0,Spencerville,,,MD,Montgomery County,America/New_York,301,,US,39.12,-76.96,760
+20871,STANDARD,0,Clarksburg,Hyattstown,,MD,Montgomery County,America/New_York,"301,240",,US,39.23,-77.27,22220
+20872,STANDARD,0,Damascus,,,MD,Montgomery County,America/New_York,"240,301",,US,39.29,-77.22,13260
+20874,STANDARD,0,Germantown,Darnestown,,MD,Montgomery County,America/New_York,240,,US,39.17,-77.26,59300
+20875,PO BOX,0,Germantown,,,MD,Montgomery County,America/New_York,240,,US,39.17,-77.26,628
+20876,STANDARD,0,Germantown,,,MD,Montgomery County,America/New_York,240,,US,39.21,-77.24,25220
+20877,STANDARD,0,Gaithersburg,"Montgomery Village, Montgomry Vlg",,MD,Montgomery County,America/New_York,"301,240",,US,39.14,-77.21,37850
+20878,STANDARD,0,Gaithersburg,"Darnestown, N Potomac, No Potomac, North Potomac",,MD,Montgomery County,America/New_York,"240,301",,US,39.12,-77.25,62930
+20879,STANDARD,0,Gaithersburg,"Laytonsville, Montgomery Village, Montgomry Vlg",,MD,Montgomery County,America/New_York,"240,301",,US,39.17,-77.18,25680
+20880,PO BOX,0,Washington Grove,Washingtn Grv,,MD,Montgomery County,America/New_York,240,,US,39.14,-77.17,740
+20882,STANDARD,0,Gaithersburg,Laytonsville,,MD,Montgomery County,America/New_York,240,,US,39.24,-77.15,13740
+20883,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,,US,39.17,-77.19,161
+20884,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,,US,39.14,-77.21,366
+20885,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,,US,39.14,-77.21,344
+20886,STANDARD,0,Montgomery Village,"Gaithersburg, Montgomry Vlg",,MD,Montgomery County,America/New_York,"240,301",,US,39.19,-77.21,34230
+20889,UNIQUE,0,Bethesda,,National Naval Medical Ctr,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,273
+20891,PO BOX,0,Kensington,,,MD,Montgomery County,America/New_York,240,,US,39.02,-77.07,119
+20892,UNIQUE,0,Bethesda,,National Institute Of Health,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,0
+20894,UNIQUE,0,Bethesda,,National Library Of Medicine,MD,Montgomery County,America/New_York,240,,US,38.98,-77.12,0
+20895,STANDARD,0,Kensington,,North Bethesda,MD,Montgomery County,America/New_York,"301,240",,US,39.02,-77.07,18690
+20896,PO BOX,0,Garrett Park,,,MD,Montgomery County,America/New_York,240,,US,39.04,-77.09,1020
+20897,UNIQUE,0,Suburb Maryland Fac,Subn Md Fac,Suburban Md Brm,MD,Montgomery County,America/New_York,240,,US,39.08,-77.05,0
+20898,PO BOX,0,Gaithersburg,,Suburb Maryland Fac,MD,Montgomery County,America/New_York,240,,US,39.14,-77.21,347
+20899,UNIQUE,0,Gaithersburg,,Natl Institute Stds & Tech,MD,Montgomery County,America/New_York,240,,US,39.14,-77.22,0
+20901,STANDARD,0,Silver Spring,Takoma Park,,MD,Montgomery County,America/New_York,"240,301",,US,39.01,-77.02,37050
+20902,STANDARD,0,Silver Spring,Wheaton,,MD,Montgomery County,America/New_York,"240,301",,US,39.05,-77.04,52380
+20903,STANDARD,0,Silver Spring,,"Hillandale, Takoma Park",MD,Montgomery County,America/New_York,301,,US,39.02,-76.98,26450
+20904,STANDARD,0,Silver Spring,Colesville,Cloverly,MD,Montgomery County,America/New_York,301,,US,39.07,-76.98,55730
+20905,STANDARD,0,Silver Spring,Colesville,,MD,Montgomery County,America/New_York,301,,US,39.11,-76.99,18350
+20906,STANDARD,0,Silver Spring,Aspen Hill,"Glenmont, Leisure World, Norbeck, Wheaton",MD,Montgomery County,America/New_York,"301,240",,US,39.09,-77.06,68290
+20907,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,323
+20908,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,38
+20910,STANDARD,0,Silver Spring,,Takoma Pk,MD,Montgomery County,America/New_York,"240,301",,US,39.0,-77.04,38380
+20911,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,115
+20912,STANDARD,0,Takoma Park,Silver Spring,,MD,Montgomery County,America/New_York,"240,301",,US,38.98,-77.0,24520
+20913,PO BOX,0,Takoma Park,Silver Spring,,MD,Montgomery County,America/New_York,240,,US,38.98,-77.0,225
+20914,PO BOX,0,Silver Spring,Colesville,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,526
+20915,PO BOX,0,Silver Spring,Wheaton,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,270
+20916,PO BOX,0,Silver Spring,Aspen Hill,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,425
+20918,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,236
+20993,UNIQUE,0,Silver Spring,,Us Food And Drug Admin,MD,Montgomery County,America/New_York,240,,US,39.03,-76.98,0
+20997,UNIQUE,0,Silver Spring,,Suburban Md Brm,MD,Montgomery County,America/New_York,240,,US,39.01,-77.02,0
+21001,STANDARD,0,Aberdeen,,,MD,Harford County,America/New_York,"410,443,667",,US,39.51,-76.17,22320
+21005,STANDARD,0,Aberdeen Proving Ground,Aber Prov Grd,Apg,MD,Harford County,America/New_York,"443,667",,US,39.49,-76.14,2120
+21009,STANDARD,0,Abingdon,,,MD,Harford County,America/New_York,410,,US,39.46,-76.27,29060
+21010,STANDARD,0,Gunpowder,"Aber Prov Grd, Aberdeen Proving Ground",Edgewood Arsenal,MD,Harford County,America/New_York,410,,US,39.39,-76.29,580
+21012,STANDARD,0,Arnold,,,MD,Anne Arundel County,America/New_York,410,,US,39.04,-76.49,21350
+21013,STANDARD,0,Baldwin,,,MD,Baltimore County,America/New_York,,,US,39.51,-76.49,4570
+21014,STANDARD,0,Bel Air,,,MD,Harford County,America/New_York,"410,443",,US,39.53,-76.34,35260
+21015,STANDARD,0,Bel Air,,,MD,Harford County,America/New_York,"410,443",,US,39.54,-76.29,28060
+21017,STANDARD,0,Belcamp,,Riverside,MD,Harford County,America/New_York,410,,US,39.47,-76.23,6110
+21018,PO BOX,0,Benson,,,MD,Harford County,America/New_York,410,,US,39.51,-76.18,51
+21020,PO BOX,0,Boring,,,MD,Baltimore County,America/New_York,410,,US,39.57,-76.8,111
+21022,PO BOX,0,Brooklandville,Brooklandvl,,MD,Baltimore County,America/New_York,410,,US,39.42,-76.67,326
+21023,PO BOX,0,Butler,,,MD,Baltimore County,America/New_York,410,,US,39.55,-76.68,247
+21027,PO BOX,0,Chase,,,MD,Baltimore County,America/New_York,410,,US,39.36,-76.37,185
+21028,STANDARD,0,Churchville,,,MD,Harford County,America/New_York,"410,443",,US,39.56,-76.24,3140
+21029,STANDARD,0,Clarksville,,,MD,Howard County,America/New_York,240,,US,39.2,-76.94,12550
+21030,STANDARD,0,Cockeysville,"Cockysvil, Hunt Valley",,MD,Baltimore County,America/New_York,"410,443",,US,39.47,-76.63,24550
+21031,STANDARD,0,Hunt Valley,,,MD,Baltimore County,America/New_York,"443,410",,US,39.49,-76.65,23
+21032,STANDARD,0,Crownsville,,,MD,Anne Arundel County,America/New_York,410,,US,39.01,-76.59,8580
+21034,STANDARD,0,Darlington,,,MD,Harford County,America/New_York,"410,443",,US,39.63,-76.2,3020
+21035,STANDARD,0,Davidsonville,,,MD,Anne Arundel County,America/New_York,410,,US,38.93,-76.63,7980
+21036,STANDARD,0,Dayton,,,MD,Howard County,America/New_York,240,,US,39.23,-77.0,2290
+21037,STANDARD,0,Edgewater,,,MD,Anne Arundel County,America/New_York,"301,410",,US,38.9,-76.54,20200
+21040,STANDARD,0,Edgewood,,,MD,Harford County,America/New_York,"410,443",,US,39.42,-76.29,22540
+21041,PO BOX,0,Ellicott City,,Ellicott,MD,Howard County,America/New_York,410,,US,39.27,-76.83,398
+21042,STANDARD,0,Ellicott City,,Ellicott,MD,Howard County,America/New_York,"410,443",,US,39.27,-76.83,40280
+21043,STANDARD,0,Ellicott City,"Daniels, Ilchester, Oella",Ellicott,MD,Howard County,America/New_York,"410,443",,US,39.26,-76.8,45480
+21044,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,"240,301,410,443",,US,39.21,-76.88,40170
+21045,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,"240,301,410,443",,US,39.2,-76.85,38230
+21046,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,"301,410,443,240",,US,39.17,-76.84,15240
+21047,STANDARD,0,Fallston,,,MD,Harford County,America/New_York,"410,443",,US,39.52,-76.42,12190
+21048,STANDARD,0,Finksburg,Patapsco,,MD,Carroll County,America/New_York,443,,US,39.49,-76.88,10130
+21050,STANDARD,0,Forest Hill,,,MD,Harford County,America/New_York,410,,US,39.58,-76.39,18060
+21051,STANDARD,0,Fork,,,MD,Baltimore County,America/New_York,"410,443",,US,39.47,-76.45,340
+21052,PO BOX,0,Fort Howard,,,MD,Baltimore County,America/New_York,410,,US,39.21,-76.45,417
+21053,STANDARD,0,Freeland,,,MD,Baltimore County,America/New_York,410,,US,39.69,-76.72,3120
+21054,STANDARD,0,Gambrills,,,MD,Anne Arundel County,America/New_York,240,,US,39.04,-76.69,11690
+21056,PO BOX,0,Gibson Island,,,MD,Anne Arundel County,America/New_York,410,,US,39.07,-76.42,256
+21057,STANDARD,0,Glen Arm,,,MD,Baltimore County,America/New_York,410,,US,39.44,-76.5,4000
+21060,STANDARD,0,Glen Burnie,,,MD,Anne Arundel County,America/New_York,"443,410",,US,39.16,-76.6,31770
+21061,STANDARD,0,Glen Burnie,,,MD,Anne Arundel County,America/New_York,"410,443",,US,39.16,-76.63,51090
+21062,UNIQUE,0,Glen Burnie,,Maryland Motor Vehicle Admin,MD,Anne Arundel County,America/New_York,410,,US,39.16,-76.6,0
+21065,UNIQUE,0,Hunt Valley,Cockys Ht Vly,"Cockeysville Hunt Valley, Huntvalley, Pdp Group Inc",MD,Baltimore County,America/New_York,410,,US,39.49,-76.65,0
+21071,PO BOX,0,Glyndon,,Reisterstown,MD,Baltimore County,America/New_York,"410,443",,US,39.47,-76.81,632
+21074,STANDARD,0,Hampstead,Greenmount,,MD,Carroll County,America/New_York,"410,443",,US,39.61,-76.85,14760
+21075,STANDARD,0,Elkridge,,Hanover,MD,Howard County,America/New_York,"240,443,410",,US,39.2,-76.75,30860
+21076,STANDARD,0,Hanover,,Harmans,MD,Anne Arundel County,America/New_York,443,,US,39.16,-76.72,16310
+21077,STANDARD,0,Harmans,,,MD,Anne Arundel County,America/New_York,443,,US,39.16,-76.7,230
+21078,STANDARD,0,Havre De Grace,Hvre De Grace,,MD,Harford County,America/New_York,"667,410,443",,US,39.54,-76.09,16860
+21082,STANDARD,0,Hydes,,,MD,Baltimore County,America/New_York,410,,US,39.48,-76.47,850
+21084,STANDARD,0,Jarrettsville,,,MD,Harford County,America/New_York,"410,443",,US,39.6,-76.47,7160
+21085,STANDARD,0,Joppa,,"Joppatown, Joppatowne, Magnolia",MD,Harford County,America/New_York,443,,US,39.43,-76.35,15700
+21087,STANDARD,0,Kingsville,Bradshaw,,MD,Baltimore County,America/New_York,,,US,39.44,-76.41,5380
+21088,PO BOX,0,Lineboro,Manchester,,MD,Carroll County,America/New_York,410,,US,39.71,-76.84,35
+21090,STANDARD,0,Linthicum Heights,"Linthicum, Linthicum Hts",,MD,Anne Arundel County,America/New_York,"443,410",,US,39.2,-76.66,9700
+21092,PO BOX,0,Long Green,,,MD,Baltimore County,America/New_York,410,,US,39.47,-76.52,156
+21093,STANDARD,0,Lutherville Timonium,"Lutherville, Luthvle Timon, Timonium",,MD,Baltimore County,America/New_York,410,,US,39.43,-76.64,36780
+21094,PO BOX,0,Lutherville Timonium,"Lutherville, Luthvle Timon, Timonium",,MD,Baltimore County,America/New_York,410,,US,39.43,-76.64,247
+21098,UNIQUE,1,Hanover,Household Bank,,MD,Anne Arundel County,America/New_York,410,,US,39.19,-76.72,0
+21102,STANDARD,0,Manchester,"Lineboro, Millers",,MD,Carroll County,America/New_York,"410,443",,US,39.65,-76.89,11500
+21104,STANDARD,0,Marriottsville,"Marriottsvl, Woodstock",Henryton,MD,Carroll County,America/New_York,,,US,39.35,-76.89,5520
+21105,PO BOX,0,Maryland Line,,,MD,Baltimore County,America/New_York,410,,US,39.71,-76.65,132
+21106,PO BOX,0,Mayo,,,MD,Anne Arundel County,America/New_York,410,,US,38.89,-76.5,259
+21108,STANDARD,0,Millersville,,,MD,Anne Arundel County,America/New_York,"410,443",,US,39.05,-76.64,17580
+21111,STANDARD,0,Monkton,Hereford,,MD,Baltimore County,America/New_York,,,US,39.57,-76.58,4930
+21113,STANDARD,0,Odenton,,,MD,Anne Arundel County,America/New_York,"240,301,410,443",,US,39.05,-76.72,31190
+21114,STANDARD,0,Crofton,,,MD,Anne Arundel County,America/New_York,"240,410,443,667",,US,39.01,-76.68,25570
+21117,STANDARD,0,Owings Mills,Garrison,,MD,Baltimore County,America/New_York,410,,US,39.41,-76.79,52350
+21120,STANDARD,0,Parkton,"Bentley Spgs, Bentley Springs",,MD,Baltimore County,America/New_York,"410,443",,US,39.65,-76.67,7200
+21122,STANDARD,0,Pasadena,"Lake Shore, Millersville, Riviera Beach",,MD,Anne Arundel County,America/New_York,"410,443",,US,39.11,-76.55,57620
+21123,PO BOX,0,Pasadena,"Lake Shore, Riviera Beach",,MD,Anne Arundel County,America/New_York,410,,US,39.11,-76.55,635
+21128,STANDARD,0,Perry Hall,,Perryhall,MD,Baltimore County,America/New_York,410,,US,39.41,-76.45,13750
+21130,PO BOX,0,Perryman,,,MD,Harford County,America/New_York,410,,US,39.48,-76.19,237
+21131,STANDARD,0,Phoenix,Jacksonville,,MD,Baltimore County,America/New_York,410,,US,39.5,-76.56,7570
+21132,STANDARD,0,Pylesville,,,MD,Harford County,America/New_York,410,,US,39.68,-76.37,2580
+21133,STANDARD,0,Randallstown,Mcdonogh Run,Foxridge,MD,Baltimore County,America/New_York,"410,443",,US,39.37,-76.8,28230
+21136,STANDARD,0,Reisterstown,Glyndon,,MD,Baltimore County,America/New_York,"410,443",,US,39.45,-76.81,33560
+21139,PO BOX,0,Riderwood,,,MD,Baltimore County,America/New_York,410,,US,39.4,-76.6,157
+21140,STANDARD,0,Riva,,,MD,Anne Arundel County,America/New_York,"301,410",,US,38.94,-76.58,3420
+21144,STANDARD,0,Severn,,,MD,Anne Arundel County,America/New_York,"410,443",,US,39.13,-76.69,33480
+21146,STANDARD,0,Severna Park,,,MD,Anne Arundel County,America/New_York,"410,443",,US,39.08,-76.57,27570
+21150,PO BOX,0,Simpsonville,,,MD,Howard County,America/New_York,410,,US,39.18,-76.88,90
+21152,STANDARD,0,Sparks Glencoe,"Glencoe, Sparks, Sparks Glenco",,MD,Baltimore County,America/New_York,"410,443",,US,39.54,-76.68,5480
+21153,PO BOX,0,Stevenson,,,MD,Baltimore County,America/New_York,410,,US,39.42,-76.7,925
+21154,STANDARD,0,Street,,,MD,Harford County,America/New_York,410,,US,39.65,-76.34,5950
+21155,STANDARD,0,Upperco,Fowbelsburg,,MD,Baltimore County,America/New_York,,,US,39.57,-76.8,2310
+21156,STANDARD,0,Upper Falls,,,MD,Baltimore County,America/New_York,410,,US,39.43,-76.4,350
+21157,STANDARD,0,Westminster,,Carrollton,MD,Carroll County,America/New_York,"410,443",,US,39.57,-77.0,33880
+21158,STANDARD,0,Westminster,,,MD,Carroll County,America/New_York,"410,443",,US,39.65,-77.04,19910
+21160,STANDARD,0,Whiteford,Cardiff,,MD,Harford County,America/New_York,"410,443",,US,39.7,-76.34,2280
+21161,STANDARD,0,White Hall,,Norrisville,MD,Harford County,America/New_York,,,US,39.65,-76.56,5210
+21162,STANDARD,0,White Marsh,,,MD,Baltimore County,America/New_York,"443,410",,US,39.39,-76.41,4300
+21163,STANDARD,0,Woodstock,Granite,Henryton,MD,Howard County,America/New_York,,,US,39.32,-76.87,7110
+21201,STANDARD,0,Baltimore,,,MD,Baltimore city,America/New_York,"410,443,667,301",,US,39.29,-76.62,11450
+21202,STANDARD,0,Baltimore,East Case,,MD,Baltimore city,America/New_York,"301,443,410,667",,US,39.3,-76.61,12290
+21203,PO BOX,0,Baltimore,,,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,1290
+21204,STANDARD,0,Towson,"Baltimore, Eudowood, Loch Raven, Ruxton",,MD,Baltimore County,America/New_York,"410,443,667",,US,39.39,-76.62,14400
+21205,STANDARD,0,Baltimore,,"Clifton East End, East End",MD,Baltimore city,America/New_York,"410,443",,US,39.3,-76.56,12480
+21206,STANDARD,0,Baltimore,Raspeburg,,MD,Baltimore city,America/New_York,"410,443",,US,39.34,-76.54,44260
+21207,STANDARD,0,Gwynn Oak,"Baltimore, Woodlawn",,MD,Baltimore County,America/New_York,"667,410,443",,US,39.32,-76.72,42570
+21208,STANDARD,0,Pikesville,Baltimore,,MD,Baltimore County,America/New_York,"410,443,667",,US,39.39,-76.7,31470
+21209,STANDARD,0,Baltimore,"Mount Washington, Mt Washington",,MD,Baltimore County,America/New_York,410,,US,39.37,-76.67,25520
+21210,STANDARD,0,Baltimore,Roland Park,,MD,Baltimore city,America/New_York,"443,410",,US,39.36,-76.63,9510
+21211,STANDARD,0,Baltimore,,Hampden,MD,Baltimore city,America/New_York,"410,443",,US,39.33,-76.64,13020
+21212,STANDARD,0,Baltimore,Govans,,MD,Baltimore city,America/New_York,"410,443,667",,US,39.37,-76.61,27910
+21213,STANDARD,0,Baltimore,Clifton,Clifton East End,MD,Baltimore city,America/New_York,"410,443",,US,39.31,-76.58,24650
+21214,STANDARD,0,Baltimore,,Hamilton,MD,Baltimore city,America/New_York,"443,410",,US,39.35,-76.56,16780
+21215,STANDARD,0,Baltimore,Arlington,,MD,Baltimore city,America/New_York,410,,US,39.35,-76.68,45550
+21216,STANDARD,0,Baltimore,,Walbrook,MD,Baltimore city,America/New_York,410,,US,39.31,-76.67,22820
+21217,STANDARD,0,Baltimore,Druid,,MD,Baltimore city,America/New_York,"410,443",,US,39.31,-76.64,23570
+21218,STANDARD,0,Baltimore,,Waverly,MD,Baltimore city,America/New_York,"443,410",,US,39.33,-76.6,32730
+21219,STANDARD,0,Sparrows Point,"Baltimore, Edgemere, Sparrows Pt",Dundalk Sparrows Point,MD,Baltimore County,America/New_York,"410,443",,US,39.22,-76.43,8510
+21220,STANDARD,0,Middle River,Baltimore,,MD,Baltimore County,America/New_York,"410,443",,US,39.33,-76.43,38290
+21221,STANDARD,0,Essex,Baltimore,,MD,Baltimore County,America/New_York,"410,443",,US,39.3,-76.44,38480
+21222,STANDARD,0,Dundalk,Baltimore,Dundalk Sparrows Point,MD,Baltimore County,America/New_York,"410,443",,US,39.26,-76.49,50150
+21223,STANDARD,0,Baltimore,Franklin,,MD,Baltimore city,America/New_York,"667,410",,US,39.28,-76.65,17820
+21224,STANDARD,0,Baltimore,Highlandtown,,MD,Baltimore city,America/New_York,410,,US,39.27,-76.54,47150
+21225,STANDARD,0,Brooklyn,"Baltimore, Brooklyn Park",,MD,Baltimore city,America/New_York,"410,443",,US,39.22,-76.61,27950
+21226,STANDARD,0,Curtis Bay,"Baltimore, Carvel Beach, Chestnut Hill Cove, Chstnt Hl Cv, Clearwater Beach, Clearwatr Bch, Greenland Bch, Greenland Beach, Orchard Beach, Stoney Beach",Brooklyn,MD,Anne Arundel County,America/New_York,"410,443",,US,39.21,-76.55,6420
+21227,STANDARD,0,Halethorpe,"Arbutus, Baltimore, Lansdowne",,MD,Baltimore County,America/New_York,"240,443,410",,US,39.24,-76.68,31860
+21228,STANDARD,0,Catonsville,Baltimore,,MD,Baltimore County,America/New_York,"410,443",,US,39.26,-76.74,44840
+21229,STANDARD,0,Baltimore,Carroll,,MD,Baltimore city,America/New_York,410,,US,39.28,-76.69,38050
+21230,STANDARD,0,Baltimore,,,MD,Baltimore city,America/New_York,"410,667",,US,39.27,-76.62,28480
+21231,STANDARD,0,Baltimore,,Patterson,MD,Baltimore city,America/New_York,"410,443,667",,US,39.29,-76.59,13110
+21233,STANDARD,0,Baltimore,,,MD,Baltimore City,America/New_York,"410,667,301,443",,US,39.3,-76.61,35
+21234,STANDARD,0,Parkville,Baltimore,,MD,Baltimore County,America/New_York,"410,443",,US,39.38,-76.55,62620
+21235,UNIQUE,0,Baltimore,,Social Security Administrat,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,20
+21236,STANDARD,0,Nottingham,Baltimore,,MD,Baltimore County,America/New_York,410,,US,39.39,-76.48,37560
+21237,STANDARD,0,Rosedale,Baltimore,,MD,Baltimore County,America/New_York,410,,US,39.32,-76.5,28580
+21239,STANDARD,0,Baltimore,"Idlewylde, Loch Hill, Northwood",,MD,Baltimore city,America/New_York,"443,410",,US,39.37,-76.59,23900
+21240,STANDARD,0,Baltimore,,,MD,Anne Arundel County,America/New_York,"240,410,443",,US,39.17,-76.67,117
+21241,UNIQUE,0,Baltimore,,Social Security Admin,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21244,STANDARD,0,Windsor Mill,Baltimore,,MD,Baltimore County,America/New_York,410,,US,39.33,-76.78,34200
+21250,UNIQUE,0,Baltimore,,"Catonsville, Univ Of Md Baltimore County",MD,Baltimore County,America/New_York,410,,US,39.26,-76.71,46
+21251,UNIQUE,0,Baltimore,,Morgan State University,MD,Baltimore city,America/New_York,410,,US,39.34,-76.58,35
+21252,UNIQUE,0,Towson,Baltimore,Towson State University,MD,Baltimore County,America/New_York,410,,US,39.39,-76.61,59
+21260,STANDARD,1,Baltimore,,Census Bureau,MD,Baltimore City,America/New_York,410,,US,39.35,-76.7,0
+21261,STANDARD,1,Baltimore,Essex,Census Bureau,MD,Baltimore City,America/New_York,410,,US,39.3,-76.45,0
+21263,UNIQUE,0,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21264,UNIQUE,0,Baltimore,,M T Bank,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21265,UNIQUE,1,Baltimore,,Verizon Telephone,MD,Baltimore City,America/New_York,410,,US,39.29,-76.6,0
+21268,UNIQUE,1,Baltimore,,Harte Hanks Direct Marketing,MD,Baltimore City,America/New_York,410,,US,39.21,-76.72,0
+21270,PO BOX,0,Baltimore,,Reisterstown Rd Plaza,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,35
+21273,UNIQUE,0,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21274,UNIQUE,1,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,,US,39.29,-76.6,0
+21275,UNIQUE,0,Baltimore,,Wells Fargo,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21278,UNIQUE,0,Baltimore,,Baltimore Sunpapers,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21279,UNIQUE,0,Baltimore,,"Crestar Bank, Sun Trust Bank",MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21280,UNIQUE,0,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21281,PO BOX,0,Baltimore,,,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,73
+21282,PO BOX,0,Baltimore,,Pikesville,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,387
+21283,UNIQUE,1,Baltimore,Shared Firm Zip Code,,MD,Baltimore City,America/New_York,410,,US,39.29,-76.61,0
+21284,PO BOX,0,Baltimore,Loch Raven,,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,202
+21285,PO BOX,0,Baltimore,,Towson Finance,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,100
+21286,STANDARD,0,Towson,"Baltimore, Loch Raven",,MD,Baltimore County,America/New_York,"667,410,443",,US,39.41,-76.57,17000
+21287,UNIQUE,0,Baltimore,,"Johns Hopkins, Johns Hopkins Hospital",MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,34
+21288,UNIQUE,0,Baltimore,,Household Bank,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21289,UNIQUE,0,Baltimore,,T Rowe Price Associates Inc,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21290,UNIQUE,0,Baltimore,,Social Security Admin,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21297,PO BOX,0,Baltimore,,Firms-courtesy Reply,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,80
+21298,UNIQUE,0,Baltimore,,Firms-business Reply,MD,Baltimore City,America/New_York,410,,US,39.3,-76.61,0
+21401,STANDARD,0,Annapolis,"Cape Saint Claire, Cpe St Claire",,MD,Anne Arundel County,America/New_York,"410,443,301",,US,38.99,-76.55,36160
+21402,STANDARD,0,Annapolis,Naval Academy,,MD,Anne Arundel County,America/New_York,"410,443",,US,38.99,-76.47,1040
+21403,STANDARD,0,Annapolis,"Eastport, Highland Bch",,MD,Anne Arundel County,America/New_York,"301,410,443",,US,38.97,-76.5,30860
+21404,PO BOX,0,Annapolis,,,MD,Anne Arundel County,America/New_York,410,,US,38.97,-76.5,266
+21405,STANDARD,0,Annapolis,"Sherwood Forest, Sherwood Frst",,MD,Anne Arundel County,America/New_York,"301,410,443",,US,39.03,-76.56,613
+21409,STANDARD,0,Annapolis,,,MD,Anne Arundel County,America/New_York,443,,US,39.02,-76.45,19690
+21411,UNIQUE,0,Annapolis,,Comptroller Of The Treasury,MD,Anne Arundel County,America/New_York,410,,US,38.97,-76.5,0
+21412,UNIQUE,0,Annapolis,,Bancroft Hall,MD,Anne Arundel County,America/New_York,410,,US,38.97,-76.5,1107
+21501,PO BOX,0,Cumberland,,,MD,Allegany County,America/New_York,240,,US,39.65,-78.76,520
+21502,STANDARD,0,Cumberland,"Cresaptown, Lavale",,MD,Allegany County,America/New_York,"240,301",,US,39.65,-78.76,30800
+21503,PO BOX,0,Cumberland,,,MD,Allegany County,America/New_York,240,,US,39.65,-78.76,56
+21504,PO BOX,0,Cumberland,Lavale,,MD,Allegany County,America/New_York,240,,US,39.65,-78.76,93
+21505,PO BOX,0,Cumberland,Cresaptown,,MD,Allegany County,America/New_York,240,,US,39.65,-78.76,223
+21520,STANDARD,0,Accident,,,MD,Garrett County,America/New_York,301,,US,39.62,-79.32,1810
+21521,STANDARD,0,Barton,,,MD,Allegany County,America/New_York,,,US,39.53,-79.01,1040
+21522,STANDARD,0,Bittinger,,,MD,Garrett County,America/New_York,301,,US,39.61,-79.23,154
+21523,STANDARD,0,Bloomington,,,MD,Garrett County,America/New_York,240,,US,39.48,-79.08,230
+21524,PO BOX,0,Corriganville,,,MD,Allegany County,America/New_York,240,,US,39.71,-78.8,507
+21528,PO BOX,0,Eckhart Mines,,,MD,Allegany County,America/New_York,240,,US,39.64,-78.87,59
+21529,PO BOX,0,Ellerslie,,,MD,Allegany County,America/New_York,240,,US,39.72,-78.77,680
+21530,STANDARD,0,Flintstone,,,MD,Allegany County,America/New_York,240,,US,39.7,-78.56,1310
+21531,STANDARD,0,Friendsville,,,MD,Garrett County,America/New_York,301,,US,39.66,-79.4,1890
+21532,STANDARD,0,Frostburg,,,MD,Allegany County,America/New_York,"240,301",,US,39.66,-78.92,10480
+21536,STANDARD,0,Grantsville,Jennings,,MD,Garrett County,America/New_York,"240,301",,US,39.69,-79.15,3410
+21538,STANDARD,0,Kitzmiller,Shallmar,,MD,Garrett County,America/New_York,301,,US,39.41,-79.22,520
+21539,STANDARD,0,Lonaconing,,,MD,Allegany County,America/New_York,301,,US,39.56,-78.97,2220
+21540,STANDARD,0,Luke,Westernport,,MD,Allegany County,America/New_York,301,,US,39.48,-79.06,48
+21541,STANDARD,0,Mc Henry,Sang Run,Mchenry,MD,Garrett County,America/New_York,301,,US,39.55,-79.35,1330
+21542,PO BOX,0,Midland,,,MD,Allegany County,America/New_York,240,,US,39.6,-78.95,541
+21543,PO BOX,0,Midlothian,,,MD,Allegany County,America/New_York,240,,US,39.66,-78.96,239
+21545,STANDARD,0,Mount Savage,,,MD,Allegany County,America/New_York,301,,US,39.7,-78.85,1700
+21550,STANDARD,0,Oakland,"Crellin, Deer Park, Hutton, Loch Lyn Hght, Loch Lynn Heights, Mnt Lake Park, Mountain Lake Park, Mt Lake Park, Mtin Lk Park",,MD,Garrett County,America/New_York,"240,301",,US,39.41,-79.41,11890
+21555,STANDARD,0,Oldtown,,,MD,Allegany County,America/New_York,301,,US,39.54,-78.61,1420
+21556,PO BOX,0,Pinto,,,MD,Allegany County,America/New_York,240,,US,39.54,-78.89,105
+21557,STANDARD,0,Rawlings,,,MD,Allegany County,America/New_York,240,,US,39.53,-78.88,1550
+21560,PO BOX,0,Spring Gap,,,MD,Mineral County,America/New_York,240,,US,39.59,-78.69,78
+21561,STANDARD,0,Swanton,,,MD,Garrett County,America/New_York,301,,US,39.47,-79.21,2140
+21562,STANDARD,0,Westernport,Mccoole,,MD,Allegany County,America/New_York,"301,240",,US,39.48,-79.04,2410
+21601,STANDARD,0,Easton,,,MD,Talbot County,America/New_York,"410,443",,US,38.77,-76.06,21740
+21606,UNIQUE,1,Easton,First Fulfillment & Mgr Co,,MD,Talbot County,America/New_York,410,,US,38.77,-76.07,0
+21607,STANDARD,0,Barclay,,,MD,Queen Anne's County,America/New_York,410,,US,39.14,-75.86,410
+21609,PO BOX,0,Bethlehem,,,MD,Caroline County,America/New_York,410,,US,38.74,-75.93,77
+21610,STANDARD,0,Betterton,,,MD,Kent County,America/New_York,410,,US,39.36,-76.07,280
+21612,STANDARD,0,Bozman,,,MD,Talbot County,America/New_York,410,,US,38.75,-76.26,390
+21613,STANDARD,0,Cambridge,,,MD,Dorchester County,America/New_York,"410,443",,US,38.56,-76.07,15300
+21617,STANDARD,0,Centreville,,,MD,Queen Anne's County,America/New_York,"410,443",,US,39.04,-76.06,9700
+21619,STANDARD,0,Chester,,,MD,Queen Anne's County,America/New_York,410,,US,38.95,-76.28,6030
+21620,STANDARD,0,Chestertown,,,MD,Kent County,America/New_York,"410,443",,US,39.21,-76.07,10150
+21622,STANDARD,0,Church Creek,,,MD,Dorchester County,America/New_York,410,,US,38.5,-76.15,430
+21623,STANDARD,0,Church Hill,,,MD,Queen Anne's County,America/New_York,410,,US,39.14,-75.98,1840
+21624,PO BOX,0,Claiborne,,Saint Michaels,MD,Talbot County,America/New_York,410,,US,38.84,-76.27,127
+21625,STANDARD,0,Cordova,,,MD,Talbot County,America/New_York,410,,US,38.87,-75.99,2160
+21626,STANDARD,0,Crapo,,,MD,Dorchester County,America/New_York,410,,US,38.32,-76.12,104
+21627,STANDARD,0,Crocheron,,,MD,Dorchester County,America/New_York,410,,US,38.24,-76.05,27
+21628,PO BOX,0,Crumpton,,,MD,Queen Anne's County,America/New_York,410,,US,39.23,-75.92,474
+21629,STANDARD,0,Denton,,,MD,Caroline County,America/New_York,"410,443",,US,38.88,-75.82,8330
+21631,STANDARD,0,East New Market,E New Market,,MD,Dorchester County,America/New_York,410,,US,38.59,-75.92,2370
+21632,STANDARD,0,Federalsburg,,,MD,Caroline County,America/New_York,"410,443",,US,38.69,-75.77,5560
+21634,STANDARD,0,Fishing Creek,,Hoopersville,MD,Dorchester County,America/New_York,410,,US,38.32,-76.23,580
+21635,STANDARD,0,Galena,Golts,,MD,Kent County,America/New_York,410,,US,39.34,-75.87,1810
+21636,STANDARD,0,Goldsboro,,,MD,Caroline County,America/New_York,410,,US,39.03,-75.78,1060
+21638,STANDARD,0,Grasonville,,,MD,Queen Anne's County,America/New_York,410,,US,38.95,-76.19,4730
+21639,STANDARD,0,Greensboro,,,MD,Caroline County,America/New_York,410,,US,38.97,-75.8,3990
+21640,STANDARD,0,Henderson,,,MD,Caroline County,America/New_York,410,,US,39.07,-75.76,1440
+21641,PO BOX,0,Hillsboro,,,MD,Caroline County,America/New_York,410,,US,38.92,-75.94,172
+21643,STANDARD,0,Hurlock,,,MD,Dorchester County,America/New_York,410,,US,38.62,-75.87,5350
+21644,STANDARD,0,Ingleside,,,MD,Queen Anne's County,America/New_York,410,,US,39.11,-75.87,148
+21645,STANDARD,0,Kennedyville,,,MD,Kent County,America/New_York,410,,US,39.3,-75.98,850
+21647,STANDARD,0,Mcdaniel,,Saint Michaels,MD,Talbot County,America/New_York,410,,US,38.82,-76.28,270
+21648,STANDARD,0,Madison,,Woolford,MD,Dorchester County,America/New_York,410,,US,38.5,-76.22,186
+21649,STANDARD,0,Marydel,,,MD,Caroline County,America/New_York,410,,US,39.13,-75.77,1840
+21650,STANDARD,0,Massey,,,MD,Kent County,America/New_York,410,,US,39.31,-75.81,190
+21651,STANDARD,0,Millington,,,MD,Kent County,America/New_York,410,,US,39.25,-75.84,2540
+21652,PO BOX,0,Neavitt,,,MD,Talbot County,America/New_York,410,,US,38.72,-76.28,176
+21653,PO BOX,0,Newcomb,,,MD,Talbot County,America/New_York,410,,US,38.75,-76.18,121
+21654,STANDARD,0,Oxford,,,MD,Talbot County,America/New_York,410,,US,38.68,-76.17,1040
+21655,STANDARD,0,Preston,,,MD,Caroline County,America/New_York,410,,US,38.71,-75.9,4470
+21656,PO BOX,0,Price,Church Hill,,MD,Queen Anne's County,America/New_York,410,,US,39.14,-75.99,0
+21657,STANDARD,0,Queen Anne,,,MD,Queen Anne's County,America/New_York,410,,US,38.97,-75.99,1080
+21658,STANDARD,0,Queenstown,,,MD,Queen Anne's County,America/New_York,"410,443",,US,38.98,-76.15,3470
+21659,STANDARD,0,Rhodesdale,"Brookview, Eldorado, Galestown",,MD,Dorchester County,America/New_York,"410,443",,US,38.59,-75.79,790
+21660,STANDARD,0,Ridgely,,,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,3740
+21661,STANDARD,0,Rock Hall,,,MD,Kent County,America/New_York,410,,US,39.14,-76.24,2130
+21662,STANDARD,0,Royal Oak,,,MD,Talbot County,America/New_York,410,,US,38.71,-76.21,690
+21663,STANDARD,0,Saint Michaels,St Michaels,,MD,Talbot County,America/New_York,410,,US,38.78,-76.22,2750
+21664,PO BOX,0,Secretary,,,MD,Dorchester County,America/New_York,410,,US,38.61,-75.94,637
+21665,STANDARD,0,Sherwood,,,MD,Talbot County,America/New_York,410,,US,38.74,-76.32,210
+21666,STANDARD,0,Stevensville,,,MD,Queen Anne's County,America/New_York,"410,443",,US,38.99,-76.3,12100
+21667,STANDARD,0,Still Pond,,,MD,Kent County,America/New_York,410,,US,39.32,-76.05,290
+21668,STANDARD,0,Sudlersville,,,MD,Queen Anne's County,America/New_York,410,,US,39.18,-75.85,1570
+21669,PO BOX,0,Taylors Island,Taylors Is,,MD,Dorchester County,America/New_York,410,,US,38.46,-76.3,211
+21670,PO BOX,0,Templeville,,,MD,Caroline County,America/New_York,410,,US,39.13,-75.76,32
+21671,STANDARD,0,Tilghman,,,MD,Talbot County,America/New_York,410,,US,38.69,-76.33,680
+21672,STANDARD,0,Toddville,,,MD,Dorchester County,America/New_York,410,,US,38.27,-76.05,199
+21673,STANDARD,0,Trappe,,,MD,Talbot County,America/New_York,"410,443",,US,38.65,-76.05,2840
+21675,STANDARD,0,Wingate,,,MD,Dorchester County,America/New_York,410,,US,38.28,-76.08,81
+21676,STANDARD,0,Wittman,,,MD,Talbot County,America/New_York,410,,US,38.78,-76.3,230
+21677,STANDARD,0,Woolford,,Madison,MD,Dorchester County,America/New_York,410,,US,38.5,-76.18,410
+21678,STANDARD,0,Worton,Lynch,,MD,Kent County,America/New_York,410,,US,39.29,-76.11,1980
+21679,STANDARD,0,Wye Mills,,,MD,Talbot County,America/New_York,410,,US,38.91,-76.08,530
+21681,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21682,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21683,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21684,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21685,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21686,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21687,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21688,UNIQUE,1,Ridgely,,Nationwide Fulfill Systems,MD,Caroline County,America/New_York,410,,US,38.94,-75.88,0
+21690,UNIQUE,0,Chestertown,,Usa Fulfillment,MD,Kent County,America/New_York,410,,US,39.21,-76.07,0
+21701,STANDARD,0,Frederick,Lewistown,Hood College,MD,Frederick County,America/New_York,"240,301",,US,39.42,-77.41,33750
+21702,STANDARD,0,Frederick,Fort Detrick,College Estates,MD,Frederick County,America/New_York,"240,301",,US,39.48,-77.46,40450
+21703,STANDARD,0,Frederick,,,MD,Frederick County,America/New_York,"301,240",,US,39.37,-77.47,34930
+21704,STANDARD,0,Frederick,Urbana,,MD,Frederick County,America/New_York,"301,240",,US,39.35,-77.38,15400
+21705,PO BOX,0,Frederick,,,MD,Frederick County,America/New_York,240,,US,39.41,-77.41,758
+21709,UNIQUE,0,Frederick,,State Farm Ins Co,MD,Frederick County,America/New_York,240,,US,39.42,-77.41,0
+21710,STANDARD,0,Adamstown,Doubs,,MD,Frederick County,America/New_York,"240,301",,US,39.29,-77.45,4370
+21711,STANDARD,0,Big Pool,,,MD,Washington County,America/New_York,240,,US,39.66,-78.0,930
+21713,STANDARD,0,Boonsboro,,,MD,Washington County,America/New_York,240,,US,39.5,-77.65,8700
+21714,PO BOX,0,Braddock Heights,Braddock Hts,,MD,Frederick County,America/New_York,240,,US,39.42,-77.5,439
+21715,PO BOX,0,Brownsville,,,MD,Washington County,America/New_York,240,,US,39.38,-77.66,115
+21716,STANDARD,0,Brunswick,,Knoxville,MD,Frederick County,America/New_York,301,,US,39.31,-77.61,5210
+21717,PO BOX,0,Buckeystown,,,MD,Frederick County,America/New_York,240,,US,39.34,-77.44,406
+21718,STANDARD,0,Burkittsville,,,MD,Frederick County,America/New_York,240,,US,39.39,-77.63,216
+21719,STANDARD,0,Cascade,"Fort Ritchie, Highfield",,MD,Washington County,America/New_York,"240,301",,US,39.7,-77.49,1370
+21720,PO BOX,0,Cavetown,,,MD,Washington County,America/New_York,240,,US,39.65,-77.57,250
+21721,PO BOX,0,Chewsville,,,MD,Washington County,America/New_York,240,,US,39.63,-77.68,151
+21722,STANDARD,0,Clear Spring,Big Spring,,MD,Washington County,America/New_York,301,,US,39.65,-77.93,5220
+21723,STANDARD,0,Cooksville,,,MD,Howard County,America/New_York,410,,US,39.33,-77.0,920
+21727,STANDARD,0,Emmitsburg,,,MD,Frederick County,America/New_York,"240,301",,US,39.7,-77.32,4000
+21733,STANDARD,0,Fairplay,St James,,MD,Washington County,America/New_York,240,,US,39.55,-77.76,1150
+21734,PO BOX,0,Funkstown,,,MD,Washington County,America/New_York,240,,US,39.61,-77.71,1015
+21737,STANDARD,0,Glenelg,,,MD,Howard County,America/New_York,410,,US,39.25,-77.03,2200
+21738,STANDARD,0,Glenwood,,,MD,Howard County,America/New_York,"410,443",,US,39.28,-77.02,3560
+21740,STANDARD,0,Hagerstown,,,MD,Washington County,America/New_York,"240,301",,US,39.63,-77.71,52380
+21741,PO BOX,0,Hagerstown,,,MD,Washington County,America/New_York,240,,US,39.63,-77.71,870
+21742,STANDARD,0,Hagerstown,,Northern,MD,Washington County,America/New_York,"240,301",,US,39.68,-77.65,29450
+21746,UNIQUE,0,Hagerstown,,Maryland Correctional System,MD,Washington County,America/New_York,240,,US,39.57,-77.71,28
+21747,PO BOX,0,Hagerstown,,Citicorp,MD,Washington County,America/New_York,240,,US,39.63,-77.71,0
+21748,UNIQUE,1,Hagerstown,,Citicorp,MD,Washington County,America/New_York,240,,US,39.63,-77.71,0
+21749,UNIQUE,0,Hagerstown,,Citicorp,MD,Washington County,America/New_York,240,,US,39.63,-77.71,0
+21750,STANDARD,0,Hancock,,,MD,Washington County,America/New_York,"240,301",,US,39.7,-78.17,3170
+21754,STANDARD,0,Ijamsville,,,MD,Frederick County,America/New_York,240,,US,39.33,-77.31,6120
+21755,STANDARD,0,Jefferson,,,MD,Frederick County,America/New_York,240,,US,39.36,-77.53,5410
+21756,STANDARD,0,Keedysville,,,MD,Washington County,America/New_York,301,,US,39.48,-77.69,3470
+21757,STANDARD,0,Keymar,"Detour, Middleburg",,MD,Frederick County,America/New_York,,,US,39.59,-77.26,2680
+21758,STANDARD,0,Knoxville,Brunswick,,MD,Frederick County,America/New_York,301,,US,39.35,-77.64,4450
+21759,PO BOX,0,Ladiesburg,,,MD,Frederick County,America/New_York,240,,US,39.56,-77.26,48
+21762,PO BOX,0,Libertytown,,,MD,Frederick County,America/New_York,240,,US,39.48,-77.25,490
+21765,PO BOX,0,Lisbon,,,MD,Howard County,America/New_York,410,,US,39.33,-77.07,179
+21766,STANDARD,0,Little Orleans,Ltl Orleans,,MD,Allegany County,America/New_York,240,,US,39.67,-78.39,520
+21767,STANDARD,0,Maugansville,,,MD,Washington County,America/New_York,240,,US,39.7,-77.75,1120
+21769,STANDARD,0,Middletown,,,MD,Frederick County,America/New_York,"240,301",,US,39.44,-77.54,11390
+21770,STANDARD,0,Monrovia,,,MD,Frederick County,America/New_York,"240,301",,US,39.35,-77.25,5090
+21771,STANDARD,0,Mount Airy,,,MD,Frederick County,America/New_York,"240,301",,US,39.37,-77.15,30140
+21773,STANDARD,0,Myersville,,,MD,Frederick County,America/New_York,"240,301",,US,39.5,-77.56,5090
+21774,STANDARD,0,New Market,,Lake Linganore,MD,Frederick County,America/New_York,301,,US,39.41,-77.27,13500
+21775,PO BOX,0,New Midway,,,MD,Frederick County,America/New_York,240,,US,39.55,-77.3,34
+21776,STANDARD,0,New Windsor,,,MD,Carroll County,America/New_York,"410,443",,US,39.54,-77.1,5420
+21777,STANDARD,0,Point Of Rocks,Pt Of Rocks,,MD,Frederick County,America/New_York,240,,US,39.27,-77.53,1900
+21778,STANDARD,0,Rocky Ridge,,,MD,Frederick County,America/New_York,240,,US,39.61,-77.33,990
+21779,STANDARD,0,Rohrersville,Gapland,,MD,Washington County,America/New_York,240,,US,39.43,-77.65,900
+21780,STANDARD,0,Sabillasville,,,MD,Frederick County,America/New_York,240,,US,39.7,-77.45,1350
+21781,PO BOX,0,Saint James,,,MD,Washington County,America/New_York,240,,US,39.57,-77.76,84
+21782,STANDARD,0,Sharpsburg,,,MD,Washington County,America/New_York,240,,US,39.45,-77.74,3750
+21783,STANDARD,0,Smithsburg,,,MD,Washington County,America/New_York,"240,301",,US,39.65,-77.57,8510
+21784,STANDARD,0,Sykesville,"Eldersburg, Gaither",,MD,Carroll County,America/New_York,"410,443",,US,39.37,-76.97,37340
+21787,STANDARD,0,Taneytown,,,MD,Carroll County,America/New_York,"410,443",,US,39.65,-77.16,9750
+21788,STANDARD,0,Thurmont,Graceham,,MD,Frederick County,America/New_York,"240,301",,US,39.62,-77.4,10960
+21790,STANDARD,0,Tuscarora,,,MD,Frederick County,America/New_York,240,,US,39.26,-77.5,134
+21791,STANDARD,0,Union Bridge,Linwood,,MD,Carroll County,America/New_York,"410,443",,US,39.56,-77.17,4760
+21792,PO BOX,0,Unionville,,,MD,Frederick County,America/New_York,240,,US,39.51,-77.11,0
+21793,STANDARD,0,Walkersville,,,MD,Frederick County,America/New_York,301,,US,39.48,-77.35,9910
+21794,STANDARD,0,West Friendship,W Friendship,,MD,Howard County,America/New_York,410,,US,39.3,-76.95,2550
+21795,STANDARD,0,Williamsport,,,MD,Washington County,America/New_York,"240,301",,US,39.59,-77.81,8630
+21797,STANDARD,0,Woodbine,,,MD,Howard County,America/New_York,,,US,39.33,-77.06,9030
+21798,STANDARD,0,Woodsboro,,,MD,Frederick County,America/New_York,240,,US,39.53,-77.31,2330
+21801,STANDARD,0,Salisbury,,,MD,Wicomico County,America/New_York,"443,410,667",,US,38.38,-75.64,24000
+21802,PO BOX,0,Salisbury,,,MD,Wicomico County,America/New_York,410,,US,38.34,-75.58,1309
+21803,PO BOX,0,Salisbury,,,MD,Wicomico County,America/New_York,410,,US,38.37,-75.58,508
+21804,STANDARD,0,Salisbury,,,MD,Wicomico County,America/New_York,"410,667,443",,US,38.37,-75.58,32090
+21810,PO BOX,0,Allen,,,MD,Wicomico County,America/New_York,410,,US,38.3,-75.71,163
+21811,STANDARD,0,Berlin,"Ocean Pines, Ocean Pnes",,MD,Worcester County,America/New_York,"410,443",,US,38.32,-75.21,20850
+21813,STANDARD,0,Bishopville,,Bishop,MD,Worcester County,America/New_York,"410,443",,US,38.44,-75.19,2680
+21814,STANDARD,0,Bivalve,,,MD,Wicomico County,America/New_York,410,,US,38.3,-75.88,280
+21817,STANDARD,0,Crisfield,,,MD,Somerset County,America/New_York,"410,443",,US,37.98,-75.85,4040
+21821,STANDARD,0,Deal Island,"Chance, Dames Quarter, Wenona",,MD,Somerset County,America/New_York,410,,US,38.15,-75.94,710
+21822,STANDARD,0,Eden,,,MD,Somerset County,America/New_York,,,US,38.28,-75.65,2470
+21824,STANDARD,0,Ewell,,Rhodes Point,MD,Somerset County,America/New_York,410,,US,37.98,-76.03,142
+21826,STANDARD,0,Fruitland,,,MD,Wicomico County,America/New_York,410,,US,38.32,-75.62,4430
+21829,STANDARD,0,Girdletree,,,MD,Worcester County,America/New_York,410,,US,38.09,-75.39,450
+21830,STANDARD,0,Hebron,,,MD,Wicomico County,America/New_York,"410,443",,US,38.41,-75.68,3710
+21835,STANDARD,0,Linkwood,,,MD,Dorchester County,America/New_York,"410,443",,US,38.54,-75.94,370
+21836,PO BOX,0,Manokin,,,MD,Somerset County,America/New_York,410,,US,38.11,-75.75,73
+21837,STANDARD,0,Mardela Springs,"Mardela, Mardela Spgs",,MD,Wicomico County,America/New_York,"410,443",,US,38.45,-75.75,2350
+21838,STANDARD,0,Marion Station,"Marion, Marion Sta",,MD,Somerset County,America/New_York,410,,US,38.01,-75.73,1550
+21840,STANDARD,0,Nanticoke,,,MD,Wicomico County,America/New_York,"410,443",,US,38.27,-75.9,310
+21841,STANDARD,0,Newark,,,MD,Worcester County,America/New_York,410,,US,38.25,-75.29,780
+21842,STANDARD,0,Ocean City,,"North Ocean City, West Ocean City",MD,Worcester County,America/New_York,"410,443",,US,38.35,-75.13,10070
+21843,PO BOX,0,Ocean City,,,MD,Worcester County,America/New_York,410,,US,38.33,-75.08,1256
+21849,STANDARD,0,Parsonsburg,,,MD,Wicomico County,America/New_York,410,,US,38.38,-75.47,2890
+21850,STANDARD,0,Pittsville,,,MD,Wicomico County,America/New_York,410,,US,38.39,-75.41,2700
+21851,STANDARD,0,Pocomoke City,,Pocomoke,MD,Worcester County,America/New_York,"410,443",,US,38.06,-75.56,6340
+21852,PO BOX,0,Powellville,,Pittsville,MD,Wicomico County,America/New_York,410,,US,38.32,-75.37,0
+21853,STANDARD,0,Princess Anne,,Oriole,MD,Somerset County,America/New_York,"410,443",,US,38.2,-75.69,7170
+21856,STANDARD,0,Quantico,,Whitehaven,MD,Wicomico County,America/New_York,410,,US,38.32,-75.79,730
+21857,PO BOX,0,Rehobeth,,,MD,Somerset County,America/New_York,410,,US,38.03,-75.66,0
+21861,PO BOX,0,Sharptown,,,MD,Wicomico County,America/New_York,410,,US,38.54,-75.73,815
+21862,STANDARD,0,Showell,,,MD,Worcester County,America/New_York,410,,US,38.4,-75.23,96
+21863,STANDARD,0,Snow Hill,,,MD,Worcester County,America/New_York,"410,443",,US,38.17,-75.39,4180
+21864,STANDARD,0,Stockton,,,MD,Worcester County,America/New_York,410,,US,38.05,-75.4,560
+21865,STANDARD,0,Tyaskin,,,MD,Wicomico County,America/New_York,410,,US,38.32,-75.87,390
+21866,PO BOX,0,Tylerton,,,MD,Somerset County,America/New_York,410,,US,37.97,-76.02,51
+21867,PO BOX,0,Upper Fairmount,"Fairmount, Upper Fairmt, Upper Hill",,MD,Somerset County,America/New_York,410,,US,38.11,-75.79,213
+21869,STANDARD,0,Vienna,,"Elliott, Salem",MD,Dorchester County,America/New_York,410,,US,38.44,-75.9,760
+21871,STANDARD,0,Westover,,"Easton Correctional Inst, Kingston, Rumbley",MD,Somerset County,America/New_York,410,,US,38.12,-75.7,1610
+21872,STANDARD,0,Whaleyville,,,MD,Worcester County,America/New_York,410,,US,38.4,-75.3,680
+21874,STANDARD,0,Willards,,,MD,Wicomico County,America/New_York,"410,443",,US,38.39,-75.34,2010
+21875,STANDARD,0,Delmar,,,MD,Wicomico County,America/New_York,"410,443",,US,38.45,-75.57,6000
+21890,UNIQUE,0,Westover,,"Eastern Correctional Inst, Easton Correctional Inst",MD,Somerset County,America/New_York,410,,US,38.16,-75.7,0
+21901,STANDARD,0,North East,,Northeast,MD,Cecil County,America/New_York,"410,443",,US,39.6,-75.94,16090
+21902,PO BOX,0,Perry Point,,,MD,Cecil County,America/New_York,410,,US,39.55,-76.06,121
+21903,STANDARD,0,Perryville,,,MD,Cecil County,America/New_York,"410,443",,US,39.57,-76.06,4960
+21904,STANDARD,0,Port Deposit,Bainbridge,,MD,Cecil County,America/New_York,"410,443",,US,39.6,-76.11,6260
+21911,STANDARD,0,Rising Sun,,,MD,Cecil County,America/New_York,410,,US,39.69,-76.06,10220
+21912,STANDARD,0,Warwick,,,MD,Cecil County,America/New_York,410,,US,39.42,-75.8,1110
+21913,PO BOX,0,Cecilton,,,MD,Cecil County,America/New_York,410,,US,39.4,-75.87,776
+21914,PO BOX,0,Charlestown,,,MD,Cecil County,America/New_York,410,,US,39.57,-75.97,813
+21915,STANDARD,0,Chesapeake City,Chesapeake Cy,,MD,Cecil County,America/New_York,"443,410",,US,39.52,-75.81,2770
+21916,PO BOX,0,Childs,,,MD,Cecil County,America/New_York,410,,US,39.64,-75.86,159
+21917,STANDARD,0,Colora,,,MD,Cecil County,America/New_York,410,,US,39.66,-76.09,2330
+21918,STANDARD,0,Conowingo,,,MD,Cecil County,America/New_York,410,,US,39.68,-76.16,3910
+21919,STANDARD,0,Earleville,,,MD,Cecil County,America/New_York,410,,US,39.41,-75.93,2500
+21920,PO BOX,0,Elk Mills,,,MD,Cecil County,America/New_York,410,,US,39.66,-75.83,365
+21921,STANDARD,0,Elkton,,,MD,Cecil County,America/New_York,"410,443",,US,39.6,-75.82,38190
+21922,PO BOX,0,Elkton,,,MD,Cecil County,America/New_York,410,,US,39.6,-75.82,980
+21930,PO BOX,0,Georgetown,,,MD,Cecil County,America/New_York,410,,US,39.38,-75.89,222
